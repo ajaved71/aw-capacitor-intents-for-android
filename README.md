@@ -40,6 +40,14 @@ CapacitorIntents.sendBroadcastIntent({
         }
     );
 
+    //Example for zebra:
+    CapacitorIntents.registerBroadcastReceiver(
+      {
+        filters: ['com.zebra.ionic.capacitor.ACTION','com.symbol.datawedge.api.RESULT_ACTION'],
+        categories: ['android.intent.category.DEFAULT'],
+      },
+      (intent) => {});
+
 // Profile Creation 
 const profileConfig = {
     PROFILE_NAME: "Example Name",
