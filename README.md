@@ -1,6 +1,8 @@
-# capacitor-intents-for-android 
+# aw-capacitor-intents-for-android 
 
 Simple intent tools for Capacitor on Android platform.
+
+Support provided by AW for Android 14
 
 ## Install
 

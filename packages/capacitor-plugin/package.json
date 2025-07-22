@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-intents-for-android",
-  "version": "1.4.0",
+  "name": "aw-capacitor-intents-for-android",
+  "version": "1.0.0",
   "description": "Simple intent tools for Capacitor on Android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -20,10 +20,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/detchenkov/capacitor-intents"
+    "url": "https://github.com/ajaved71/aw-capacitor-intents-for-android.git"
   },
   "bugs": {
-    "url": "https://github.com/detchenkov/capacitor-intents/issues"
+    "url": "https://github.com/ajaved71/aw-capacitor-intents-for-android.git"
   },
   "keywords": [
     "capacitor",
