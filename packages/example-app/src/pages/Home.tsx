@@ -1,7 +1,7 @@
 import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar, IonButton } from '@ionic/react';
 import './Home.css';
 
-import { CapacitorIntents } from 'capacitor-intents-for-android';
+import { CapacitorIntents } from 'aw-capacitor-intents-android';
 import { useCallback, useState } from 'react';
 
 const Home: React.FC = () => {

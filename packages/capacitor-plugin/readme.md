@@ -7,7 +7,7 @@ Support provided by AW for Android 14
 ## Install
 
 ```bash
-npm install capacitor-intents-for-android
+npm install aw-capacitor-intents-android
 npx cap sync
 ```
 
